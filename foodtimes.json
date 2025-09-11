@@ -1,5 +1,5 @@
 {
-  "Reliable": true,
+  "Reliable": false,
   "Schedule": {
     "Monday": {
       "10:45-11:15": [],

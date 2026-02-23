@@ -6,9 +6,9 @@
       "11:15-11:45": [
         {"class": "RUA06.2", "location": "Ala"},
         {"class": "FY04.2", "location": "Ala"},
-        {"class": "KE06.4", "location": "Ala"},
+        {"class": "KE06.3", "location": "Ala"},
         {"class": "ÄI04.4", "location": "Ylä"},
-        {"class": "MAA11.6", "location": "Ylä"},
+        {"class": "MAA11.5", "location": "Ylä"},
         {"class": "MU01.5", "location": "Ylä"}
       ],
       "11:45-12:15": [
@@ -29,6 +29,7 @@
         {"class": "BI05.3", "location": "Ylä"}
       ]
     },
+
     "Tuesday": {
       "10:45-11:15": [],
       "11:15-11:45": [
@@ -36,7 +37,7 @@
         {"class": "ICT10.1", "location": "Ala"},
         {"class": "KE01.8", "location": "Ala"},
         {"class": "ENA02.5", "location": "Ylä"},
-        {"class": "MAA02.4", "location": "Ylä"}
+        {"class": "MAA02/04.4", "location": "Ylä"}
       ],
       "11:45-12:15": [
         {"class": "ÄI08.3", "location": "Ala"},
@@ -57,14 +58,15 @@
         {"class": "YH04.2", "location": "Ylä"}
       ]
     },
+
     "Wednesday": {
       "10:45-11:15": [],
       "11:15-11:45": [
         {"class": "RUA06.2", "location": "Ala"},
         {"class": "FY04.2", "location": "Ala"},
-        {"class": "KE06.4", "location": "Ala"},
+        {"class": "KE06.3", "location": "Ala"},
         {"class": "ÄI04.4", "location": "Ylä"},
-        {"class": "MAA11.6", "location": "Ylä"},
+        {"class": "MAA11.5", "location": "Ylä"},
         {"class": "MU01.5", "location": "Ylä"}
       ],
       "11:45-12:15": [
@@ -85,6 +87,7 @@
         {"class": "BI05.3", "location": "Ylä"}
       ]
     },
+
     "Thursday": {
       "10:45-11:15": [],
       "11:15-11:45": [
@@ -113,6 +116,7 @@
         {"class": "RUB15.3", "location": "Ylä"}
       ]
     },
+
     "Friday": {
       "10:45-11:15": [],
       "11:15-11:45": [
@@ -120,7 +124,7 @@
         {"class": "ICT10.1", "location": "Ala"},
         {"class": "KE01.8", "location": "Ala"},
         {"class": "ENA02.5", "location": "Ylä"},
-        {"class": "MAA02.4", "location": "Ylä"}
+        {"class": "MAA02/04.4", "location": "Ylä"}
       ],
       "11:45-12:15": [
         {"class": "ÄI08.3", "location": "Ala"},

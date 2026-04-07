@@ -4,145 +4,155 @@
     "Monday": {
       "10:45-11:15": [],
       "11:15-11:45": [
-        {"class": "FY04.1", "location": "Ala"},
-        {"class": "MAA11.5", "location": "Ala"},
-        {"class": "KE06.3", "location": "Ala"},
-        {"class": "RUA06.2", "location": "Ylä"},
-        {"class": "RUB13.5", "location": "Ylä"},
-        {"class": "EAB23.1", "location": "Ylä"}
+        {"class": "RUA10.2", "location": "Ala"},
+        {"class": "MU02.4", "location": "Ala"},
+        {"class": "FY04.4", "location": "Ala"},
+        {"class": "KE03.4", "location": "Ylä"},
+        {"class": "ÄI10.7", "location": "Ylä"},
+        {"class": "MAA10.6", "location": "Ylä"}
       ],
       "11:45-12:15": [
-        {"class": "ÄI04.4", "location": "Ala"},
-        {"class": "ENA02.7", "location": "Ala"},
-        {"class": "HI02.5", "location": "Ala"},
-        {"class": "MAB02.2", "location": "Ylä"},
-        {"class": "PS04.3", "location": "Ylä"},
-        {"class": "YH02.5", "location": "Ylä"}
+        {"class": "ENA03.7", "location": "Ala"},
+        {"class": "ENA07.7", "location": "Ala"},
+        {"class": "EAB21.1", "location": "Ylä"},
+        {"class": "HI06.2", "location": "Ylä"}
       ],
       "12:15-12:45": [
-        {"class": "MAA02.6", "location": "Ala"},
-        {"class": "MAA07.6", "location": "Ala"}
+        {"class": "MAA04.6", "location": "Ala"},
+        {"class": "MAA08.6", "location": "Ala"},
+        {"class": "MAB03.2", "location": "Ala"},
+        {"class": "PS02.3", "location": "Ylä"},
+        {"class": "TE01.7", "location": "Ylä"}
       ],
       "12:45-13:15": [
-        {"class": "BI02.4", "location": "Ala"},
-        {"class": "BI05.3", "location": "Ala"},
-        {"class": "MU01.5", "location": "Ala"}
+        {"class": "BI06.3", "location": "Ala"},
+        {"class": "ÄI08.7", "location": "Ala"},
+        {"class": "UE02.5", "location": "Ylä"},
+        {"class": "YH04.3", "location": "Ylä"}
       ]
     },
 
     "Tuesday": {
       "10:45-11:15": [],
       "11:15-11:45": [
-        {"class": "FY06.3", "location": "Ala"},
-        {"class": "ICT10.1", "location": "Ala"},
-        {"class": "KE01.8", "location": "Ala"},
-        {"class": "RUB13.4", "location": "Ylä"},
-        {"class": "RUB15.2", "location": "Ylä"}
+        {"class": "RUB17.3", "location": "Ala"},
+        {"class": "FY07.3", "location": "Ala"},
+        {"class": "ICT20.1", "location": "Ala"},
+        {"class": "KE03.3", "location": "Ylä"},
+        {"class": "KU02.2", "location": "Ylä"},
+        {"class": "RUA03.2", "location": "Ylä"}
       ],
       "11:45-12:15": [
-        {"class": "ENA02.4", "location": "Ala"},
-        {"class": "ÄI08.4", "location": "Ala"},
-        {"class": "MAA02.4", "location": "Ala"},
-        {"class": "ENA02.5", "location": "Ylä"},
-        {"class": "HI02.4", "location": "Ylä"}
+        {"class": "ENA03.4", "location": "Ala"},
+        {"class": "ENA03.5", "location": "Ala"},
+        {"class": "ENA07.6", "location": "Ala"},
+        {"class": "HI02.6", "location": "Ylä"}
       ],
       "12:15-12:45": [
-        {"class": "MAA07.4", "location": "Ala"},
-        {"class": "UE01.6", "location": "Ala"},
-        {"class": "MAB08.3", "location": "Ylä"},
-        {"class": "PS02.2", "location": "Ylä"}
+        {"class": "MAA04.4", "location": "Ala"},
+        {"class": "MAA08.4", "location": "Ala"},
+        {"class": "MAA10.4", "location": "Ala"},
+        {"class": "PS05.4", "location": "Ylä"}
       ],
       "12:45-13:15": [
-        {"class": "GE03.1", "location": "Ala"},
-        {"class": "MAB08.2", "location": "Ala"},
-        {"class": "YH04.2", "location": "Ylä"}
+        {"class": "ÄI10.6", "location": "Ala"},
+        {"class": "BI08.3", "location": "Ala"},
+        {"class": "YH07.3", "location": "Ylä"},
+        {"class": "BI02.6", "location": "Ylä"},
+        {"class": "MAB13.3", "location": "Ylä"}
       ]
     },
 
     "Wednesday": {
       "10:45-11:15": [],
       "11:15-11:45": [
-        {"class": "FY04.1", "location": "Ala"},
-        {"class": "MAA11.5", "location": "Ala"},
-        {"class": "KE06.3", "location": "Ala"},
-        {"class": "RUA06.2", "location": "Ylä"},
-        {"class": "RUB13.5", "location": "Ylä"},
-        {"class": "EAB23.1", "location": "Ylä"}
+        {"class": "RUA10.2", "location": "Ala"},
+        {"class": "MU02.4", "location": "Ala"},
+        {"class": "FY04.4", "location": "Ala"},
+        {"class": "KE03.4", "location": "Ylä"},
+        {"class": "ÄI10.7", "location": "Ylä"},
+        {"class": "MAA10.6", "location": "Ylä"}
       ],
       "11:45-12:15": [
-        {"class": "ÄI04.4", "location": "Ala"},
-        {"class": "ENA02.7", "location": "Ala"},
-        {"class": "HI02.5", "location": "Ala"},
-        {"class": "MAB02.2", "location": "Ylä"},
-        {"class": "PS04.3", "location": "Ylä"},
-        {"class": "YH02.5", "location": "Ylä"}
+        {"class": "ENA03.7", "location": "Ala"},
+        {"class": "ENA07.7", "location": "Ala"},
+        {"class": "EAB21.1", "location": "Ylä"},
+        {"class": "HI06.2", "location": "Ylä"}
       ],
       "12:15-12:45": [
-        {"class": "MAA02.6", "location": "Ala"},
-        {"class": "MAA07.6", "location": "Ala"}
+        {"class": "MAA04.6", "location": "Ala"},
+        {"class": "MAA08.6", "location": "Ala"},
+        {"class": "MAB03.2", "location": "Ala"},
+        {"class": "PS02.3", "location": "Ylä"},
+        {"class": "TE01.7", "location": "Ylä"}
       ],
       "12:45-13:15": [
-        {"class": "BI02.4", "location": "Ala"},
-        {"class": "BI05.3", "location": "Ala"},
-        {"class": "MU01.5", "location": "Ala"}
+        {"class": "BI06.3", "location": "Ala"},
+        {"class": "ÄI08.7", "location": "Ala"},
+        {"class": "UE02.5", "location": "Ylä"},
+        {"class": "YH04.3", "location": "Ylä"}
       ]
     },
 
     "Thursday": {
       "10:45-11:15": [],
       "11:15-11:45": [
-        {"class": "FY04.1", "location": "Ala"},
-        {"class": "KE06.2", "location": "Ala"},
-        {"class": "MAA11.4", "location": "Ala"},
-        {"class": "RUA06.1", "location": "Ylä"},
-        {"class": "RUB15.3", "location": "Ylä"},
-        {"class": "PS05.3", "location": "Ylä"}
+        {"class": "RUA07.2", "location": "Ala"},
+        {"class": "FY04.3", "location": "Ala"},
+        {"class": "ICT03.2", "location": "Ala"},
+        {"class": "KE06.4", "location": "Ylä"},
+        {"class": "MU01.5", "location": "Ylä"},
+        {"class": "MAA10.5", "location": "Ylä"}
       ],
       "11:45-12:15": [
-        {"class": "ÄI08.4", "location": "Ala"},
-        {"class": "MU01.4", "location": "Ala"},
-        {"class": "MAA07.5", "location": "Ala"},
-        {"class": "HI04.2", "location": "Ylä"},
-        {"class": "EAB32.1", "location": "Ylä"}
+        {"class": "ÄI08.6", "location": "Ala"},
+        {"class": "MAA04.5", "location": "Ala"},
+        {"class": "EAB24.1", "location": "Ylä"},
+        {"class": "FI01.7", "location": "Ylä"}
       ],
       "12:15-12:45": [
-        {"class": "ENA02.6", "location": "Ala"},
-        {"class": "ENA06.7", "location": "Ala"},
-        {"class": "YH03.4", "location": "Ylä"}
+        {"class": "HI05.2", "location": "Ala"},
+        {"class": "YH03.5", "location": "Ala"},
+        {"class": "MAA08.5", "location": "Ylä"},
+        {"class": "MAB09.3", "location": "Ylä"},
+        {"class": "PS01.7", "location": "Ylä"}
       ],
       "12:45-13:15": [
-        {"class": "BI02.3", "location": "Ala"},
-        {"class": "MAA02.5", "location": "Ala"},
-        {"class": "TE02.2", "location": "Ylä"}
+        {"class": "ÄI04.7", "location": "Ala"},
+        {"class": "BI02.7", "location": "Ala"},
+        {"class": "BI06.2", "location": "Ylä"},
+        {"class": "ENA03.6", "location": "Ylä"}
       ]
     },
 
     "Friday": {
       "10:45-11:15": [],
       "11:15-11:45": [
-        {"class": "FY06.3", "location": "Ala"},
-        {"class": "ICT10.1", "location": "Ala"},
-        {"class": "KE01.8", "location": "Ala"},
-        {"class": "RUB13.4", "location": "Ylä"},
-        {"class": "RUB15.2", "location": "Ylä"}
+        {"class": "RUB17.3", "location": "Ala"},
+        {"class": "FY07.3", "location": "Ala"},
+        {"class": "ICT20.1", "location": "Ala"},
+        {"class": "KE03.3", "location": "Ylä"},
+        {"class": "KU02.2", "location": "Ylä"},
+        {"class": "RUA03.2", "location": "Ylä"}
       ],
       "11:45-12:15": [
-        {"class": "ENA02.4", "location": "Ala"},
-        {"class": "ÄI08.4", "location": "Ala"},
-        {"class": "MAA02.4", "location": "Ala"},
-        {"class": "ENA02.5", "location": "Ylä"},
-        {"class": "HI02.4", "location": "Ylä"}
+        {"class": "ENA03.4", "location": "Ala"},
+        {"class": "ENA03.5", "location": "Ala"},
+        {"class": "ENA07.6", "location": "Ala"},
+        {"class": "HI02.6", "location": "Ylä"}
       ],
       "12:15-12:45": [
-        {"class": "MAA07.4", "location": "Ala"},
-        {"class": "UE01.6", "location": "Ala"},
-        {"class": "MAB08.3", "location": "Ylä"},
-        {"class": "PS02.2", "location": "Ylä"}
+        {"class": "MAA04.4", "location": "Ala"},
+        {"class": "MAA08.4", "location": "Ala"},
+        {"class": "MAA10.4", "location": "Ala"},
+        {"class": "PS05.4", "location": "Ylä"}
       ],
       "12:45-13:15": [
-        {"class": "GE03.1", "location": "Ala"},
-        {"class": "MAB08.2", "location": "Ala"},
-        {"class": "YH04.2", "location": "Ylä"}
+        {"class": "ÄI10.6", "location": "Ala"},
+        {"class": "BI08.3", "location": "Ala"},
+        {"class": "YH07.3", "location": "Ylä"},
+        {"class": "BI02.6", "location": "Ylä"},
+        {"class": "MAB13.3", "location": "Ylä"}
       ]
     }
   }
